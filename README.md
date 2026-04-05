@@ -31,9 +31,10 @@ git clone https://github.com/YOUR_USERNAME/RVCsay.git
 cd RVCsay
 
 # Install dependencies
-pip install rvc-python edge-tts sounddevice soundfile numpy
+pip install -r requirements.txt
 
 # (Optional) NVIDIA GPU Support (Recommended for speed)
+# See: https://pytorch.org/get-started/locally/
 pip install torch==2.1.1+cu118 torchaudio==2.1.1+cu118 --index-url https://download.pytorch.org/whl/cu118
 ```
 
