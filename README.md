@@ -1,3 +1,7 @@
+โปรเจกต์นี้ผมใช้ AI ทำ 
+ใช้ claude ในการเขียน code 
+ใช้ gemini ในการหาข้อมูลและเขียน README.md และ เขียนคอมเมนต์ในโค้ด
+
 # RVCsay 🎙️
 
 **RVCsay** is a lightweight, high-performance GUI wrapper for **Edge-TTS** and **RVC (Retrieval-based Voice Conversion)**. It allows you to transform text or existing audio into any voice model seamlessly on Windows and Linux—**WITHOUT** needing a separate RVC server.
