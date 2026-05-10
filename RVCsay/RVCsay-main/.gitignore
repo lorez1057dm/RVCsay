@@ -1,0 +1,31 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+venv/
+ENV/
+env/
+.venv/
+
+# RVC models (Too large for GitHub)
+*.pth
+*.index
+
+# Audio files
+audio/
+raw_*.wav
+voice_*.wav
+
+# Local tools/logs
+pip_error.log
+
+# PyInstaller
+build/
+dist/
+*.spec
+
+# Local Config
+.last_model
+.last_output

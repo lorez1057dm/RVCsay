@@ -1,0 +1,7 @@
+rvc-python
+edge-tts
+sounddevice
+soundfile
+numpy
+torch>=2.0.0
+torchaudio
